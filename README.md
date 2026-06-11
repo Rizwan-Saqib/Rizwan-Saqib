@@ -1,111 +1,44 @@
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=BOOTING+MAINFRAME...;AUTHENTICATING+USER...;ACCESS+GRANTED+%E2%9C%94;WELCOME+RIZWAN-SAQIB" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&duration=1500&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=INITIALIZING...;ACCESSING+MAINFRAME...;RIZWAN-SAQIB+ONLINE;NO+SYSTEM+IS+PERFECT."/>
 </p>
 
 ```console
-┌─────────────────────────────────────────────────────────────┐
-│                    SYSTEM TERMINAL v2.6                    │
-└─────────────────────────────────────────────────────────────┘
+root@github:~$ whoami
 
-> login --user rizwan-saqib
-
-Authenticating...
-████████████████████████████ 100%
-
-STATUS      : ONLINE
-HOST        : Sukkur IBA University
-ROLE        : Computer Systems Engineering Student
-PROGRAM     : NTHP Scholar
-MODE        : BUILD • LEARN • OPTIMIZE
+> rizwan-saqib
+> cse_undergraduate
+> nthp_scholar
+> java | dsa | oop
 ```
 
 ---
 
-```bash
-$ cat profile.json
-```
+```console
+root@github:~$ ls
 
-```json
-{
-  "name": "Rizwan Saqib",
-  "specialization": [
-    "Java",
-    "Data Structures",
-    "Algorithms",
-    "OOP"
-  ],
-  "exploring": [
-    "Artificial Intelligence",
-    "Robotics",
-    "Embedded Systems"
-  ],
-  "current_state": "Learning something new every day"
-}
+DSA-JAVA/
+Object-Avoiding-Robot/
+Set-Operation-System/
+Smart-Campus-System/
+classified/
 ```
 
 ---
 
-```bash
-$ tree projects/
-```
+```console
+root@github:~$ cat status.log
 
-```text
-📂 projects
-├── 📁 DSA-JAVA
-├── 📁 Object-Avoiding-Robot
-├── 📁 Set-Operation-System
-├── 📁 Smart-Campus-System
-│      └── [ UNDER DEVELOPMENT ]
-└── 📁 UNKNOWN-PROJECT
-       └── [ ACCESS DENIED ]
+STATUS : ONLINE
+MODE   : LEARNING
+TARGET : BUILD BETTER SYSTEMS
 ```
 
 ---
 
-```bash
-$ ./load_skills.sh
-```
+```console
+root@github:~$ sudo access future
 
-```text
-[██████████] Java
-[████████░░] C++
-[████████░░] Data Structures
-[███████░░░] Algorithms
-[████████░░] OOP
-[██████░░░░] Artificial Intelligence
-[██████░░░░] Robotics
-```
-
----
-
-```bash
-$ cat achievements.log
-```
-
-```text
-[✓] NTHP Scholar
-[✓] Microsoft Community Contributor
-[✓] IBA Sukkur Hackathon
-[✓] MUET Hackathon
-[✓] RoboCompX
-[✓] Event Director
-[✓] Area Head
-```
-
----
-
-```bash
-$ ping future
-```
-
-```text
-Reply from future:
-
-Building...
-Compiling...
-Improving...
-
-No final version detected.
+ACCESS DENIED
 ```
 
 ---
@@ -125,14 +58,27 @@ No final version detected.
 ---
 
 ```cpp
-while(alive)
-{
-    Learn();
-    Build();
-    Improve();
+while(alive){
+    learn();
+    build();
+    repeat();
 }
 ```
 
 <p align="center">
-<b>⚡ "Stay low-key. Let the code make the noise."</b>
+
+### ⚡ TRANSMISSION ENDED
+
+*"Talk is cheap. Show me the repository."*
+
+</p><p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizwan-Saqib&bg_color=000000&color=00F5FF&line=00F5FF&point=39FF14&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rizwan-Saqib&show_icons=true&theme=transparent&hide_border=true&title_color=00F5FF&icon_color=39FF14&text_color=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Rizwan-Saqib&theme=black-ice&hide_border=true"/>
 </p>
