@@ -20,17 +20,7 @@
 
 I am a **Computer Systems Engineering** undergraduate student at **Sukkur IBA University**, operating as a fully funded **National Talent Hunt Program (NTHP) Scholar**. My architectural focus centers heavily on low-overhead software engineering, algorithmic data structures, and raw system performance optimization over high-overhead abstraction frameworks.
 
-{
-  "system_parameters": {
-    "identity": "Muhammad Rizwan Saqib",
-    "allocation": "Computer Systems Engineering (Undergrad)",
-    "node_location": "Sukkur IBA University, Pakistan",
-    "scholarship_tier": "National Talent Hunt Program (NTHP)",
-    "operational_focus": "High-Efficiency Backend / Logic Matrix Compilation"
-  },
-  "hardware_preference": false,
-  "software_architecture_priority": true
-}
+
 ```json
 
 Terminal Quote:
