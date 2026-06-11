@@ -43,6 +43,7 @@
   ],
 
   "access": "AUTHORIZED"
+  Build in silence. Let the repository make the noise.
 
 ```
 
