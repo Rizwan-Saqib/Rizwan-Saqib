@@ -20,7 +20,6 @@
 
 I am a **Computer Systems Engineering** undergraduate student at **Sukkur IBA University**, operating as a fully funded **National Talent Hunt Program (NTHP) Scholar**. My architectural focus centers heavily on low-overhead software engineering, algorithmic data structures, and raw system performance optimization over high-overhead abstraction frameworks.
 
-```json
 {
   "system_parameters": {
     "identity": "Muhammad Rizwan Saqib",
@@ -32,3 +31,7 @@ I am a **Computer Systems Engineering** undergraduate student at **Sukkur IBA Un
   "hardware_preference": false,
   "software_architecture_priority": true
 }
+```json
+
+Terminal Quote:
+  Core System: "The quieter you compile, the more robust your production architecture executes."
