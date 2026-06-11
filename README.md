@@ -16,7 +16,9 @@
 
 <br/>
 
-## 📡 REGISTRY OVERVIEW // HOST NAME: RIZWAN-SAQIB
+## 🧬 ABOUT ME // HOST NAME: RIZWAN-SAQIB
+
+I am a **Computer Systems Engineering** undergraduate student at **Sukkur IBA University**, operating as a fully funded **National Talent Hunt Program (NTHP) Scholar**. My architectural focus centers heavily on low-overhead software engineering, algorithmic data structures, and raw system performance optimization over high-overhead abstraction frameworks.
 
 ```json
 {
@@ -30,27 +32,3 @@
   "hardware_preference": false,
   "software_architecture_priority": true
 }
-## 🛠️ ARCHITECTURAL FILE TREE // LOCAL SYSTEM ENGINE
-
-A dynamic runtime matrix mapping core logical operations, compiler variants, and decentralized infrastructure components:
-
-```bash
-📁 rizwan-saqib-core/
-│
-├── 🧠 compilers/
-│   ├── ☕ Java_SE_17 (Object-Oriented Architecture, Strict Encapsulation)
-│   ├── 🧬 Native_C++ (Low-Level Array Processing, Data Streams)
-│   └── 🤖 Arduino_Wiring (Hardware Sensory Communication Loops)
-│
-├── 📊 algorithmic_layers/
-│   ├── 🔗 Multi-Variant_Linked_Lists (Custom Node References)
-│   ├── 🥞 Pointer_Based_Stacks (No Collections Frameworks Allowed)
-│   └── 📂 Dynamic_File_IO_Persistence (Flat-File Byte Streams)
-│
-└── 🌐 outbound_nodes/
-    ├── 🗺️ Area_Head_Operations (Sindh Educational Organization - LAO)
-    └── 🛡️ Community_Outreach (Microsoft Learn Student Ambassadors)
-
-Operational Nodes Summary:
-  Microsoft_Student_Ambassador_Program: "Exploring Cloud ecosystem pipelines, scaling local developer reach".
-  Sindh_Educational_Organization_LAO: "Active Area Head, compiling regional logistics and resource balancing grids."
