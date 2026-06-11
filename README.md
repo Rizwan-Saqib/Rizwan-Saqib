@@ -43,7 +43,6 @@
   ],
 
   "access": "AUTHORIZED"
-  Build in silence. Let the repository make the noise.
 
 ```
 
@@ -59,6 +58,5 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Rizwan-Saqib&theme=black-ice&hide_border=true"/>
 </p>
-## 📡 REGISTRY OVERVIEW // HOST NAME: RIZWAN-SAQIB
-
+  Build in silence. Let the repository make the noise.
 ```json
