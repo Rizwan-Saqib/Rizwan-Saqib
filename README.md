@@ -15,6 +15,18 @@
 </p>
 
 <br/>
+{
+  "system_parameters": {
+    "identity": "Muhammad Rizwan Saqib",
+    "allocation": "Computer Systems Engineering (Undergrad)",
+    "node_location": "Sukkur IBA University, Pakistan",
+    "scholarship_tier": "National Talent Hunt Program (NTHP)",
+    "operational_focus": "High-Efficiency Backend / Logic Matrix Compilation"
+  },
+  "hardware_preference": false,
+  "software_architecture_priority": true
+}
+
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rizwan-Saqib&bg_color=000000&color=00F5FF&line=00F5FF&point=39FF14&hide_border=true"/>
 </p>
@@ -29,14 +41,3 @@
 ## 📡 REGISTRY OVERVIEW // HOST NAME: RIZWAN-SAQIB
 
 ```json
-{
-  "system_parameters": {
-    "identity": "Muhammad Rizwan Saqib",
-    "allocation": "Computer Systems Engineering (Undergrad)",
-    "node_location": "Sukkur IBA University, Pakistan",
-    "scholarship_tier": "National Talent Hunt Program (NTHP)",
-    "operational_focus": "High-Efficiency Backend / Logic Matrix Compilation"
-  },
-  "hardware_preference": false,
-  "software_architecture_priority": true
-}
