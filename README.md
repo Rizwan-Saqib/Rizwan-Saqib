@@ -37,8 +37,8 @@ Data Structures  •  Algorithms  •  Java Swing  •  Git/GitHub
 
 | Project | Tech | Status |
 |---------|------|--------|
-| **Smart Campus System** | Java • Swing • OOP | 🟡 Ongoing |
 | **Custom DSA Library** | Java • Data Structures | 🟡 Ongoing |
+| **Smart Campus System** | Java • Swing • OOP | ✅ Completed |
 | **Obstacle Avoidance Robot** | Arduino • C++ | ✅ Completed |
 | **Set Operations System** | C++ • Algorithms | ✅ Completed |
 
